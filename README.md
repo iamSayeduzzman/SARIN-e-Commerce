@@ -4,13 +4,13 @@
   <br />
   <br />
   
-  <img src="./readme-images/project-logo.png" />
+  <img src="./assests/images/logo/LOGOSARIN.png" />
 
   <h2 align="center">Dashboard - Admin Dashboard </h2>
 
   This dashboard is fully responsive for all devices, <br/> Built using HTML, CSS, and JavaScript.
 
-  <a href="https://iamsayeduzzman.github.io/dashboard-front-end-/"><strong>➥ Live Demo</strong></a>
+  <a href="https://iamsayeduzzman.github.io/SARIN-e-Commerce/"><strong>➥ Live Demo</strong></a>
 
 </div>
 
