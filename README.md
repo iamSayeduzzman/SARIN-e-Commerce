@@ -4,7 +4,7 @@
   <br />
   <br />
   
-  <img src="./assests/images/logo/LOGOSARIN.png" />
+  <img src="./assets/images/logo/LOGOSARIN.png" />
 
   <h2 align="center">Dashboard - Admin Dashboard </h2>
 
